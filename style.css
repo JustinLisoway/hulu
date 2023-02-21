@@ -1,0 +1,72 @@
+.grad-background {
+  background: url('https://cnbl-cdn.bamgrid.com/assets/60c53d45f6f0546647ddd4e006a207c713d149586cea401fdc0152f2fa9263a6/original') no-repeat center center fixed;
+  background-size: cover;
+}
+
+#topMenu {
+  background-color: rgba(0,0,0,.5);
+  color: rgb(162, 169, 183);
+}
+
+#bottomMenu {
+  background-color: rgba(0,0,0,.5);;
+}
+
+note {
+  color: rgb(38, 223, 128);
+  font-family: 'Graphik Web', 'Graphik', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+note-2 {
+  color: white;
+  font-size: 30px;
+}
+
+buttonText-1 {
+  color: black;
+  font-family: 'Graphik Web', 'Graphik', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+buttonText-2 {
+  color: white;
+  font-family: 'Graphik Web', 'Graphik', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.btn-success {
+  background-color: rgb(38, 223, 128);!important;
+}
+
+note-3 {
+  color: white;
+  font-size: 14px;
+  text-underline: white;
+}
+
+note-4 {
+  color: white;
+  font-size: 16px;
+  text-underline-mode: on;
+  text-underline: white;
+}
+
+note-5 {
+  color: #7e7e7e;
+  font-size: 10px;
+  text-underline-mode: on;
+  text-underline: white;
+}
